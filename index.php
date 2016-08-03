@@ -1,7 +1,7 @@
 <?php
-//by: shonenki
-//date: 02/08/2016
-//title: Ejemplo de autocompletación asincrónica utilizando PHP, Jquery y MySQL
+//Por: shonenki
+//Fecha: 02/08/2016
+//Título: Ejemplo de autocompletación asincrónica utilizando PHP, Jquery y MySQL
 
 //Visualización de errores y llamada al controlador
 error_reporting(E_ALL);
