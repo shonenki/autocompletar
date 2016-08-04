@@ -1,3 +1,6 @@
+<!--Por: shonenki
+Fecha: 02/08/2016
+Título: Ejemplo de autocompletación asincrónica utilizando PHP, Jquery y MySQL-->
 <!DOCTYPE html>
 <html lang="en">
     <head>
